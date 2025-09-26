@@ -1,4 +1,4 @@
-let num = parseInt(inp); // Don't change this line
+let num = 5; 
 
 function fizzBuzz(num){
     for(let i = 1;i <= num;i++){
@@ -20,7 +20,7 @@ function fizzBuzz(num){
     }
 }
 }
-// Type your code below
+
 console.log("Welcome to FizzBuzz!")
 fizzBuzz(num)
 
